@@ -6,7 +6,7 @@ from shortuuid.main import set_alphabet
 from shortuuid.main import ShortUUID
 from shortuuid.main import uuid
 
-__version__ = "1.0.11post1"
+__version__ = "1.0.13-big-jobs"
 __all__ = [
     "decode",
     "encode",
