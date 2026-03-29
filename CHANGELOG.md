@@ -1,6 +1,33 @@
 # Changelog
 
 
+## Unreleased
+
+### Features
+
+* Allow compatibility with other ShortUUID libraries (#104) (#107) [Thiago Marinho]
+
+### Fixes
+
+* Preserve ValueError for invalid characters in string_to_int. [Claude]
+
+* Don't install COPYING at top level of wheel (#105) [Colin Watson]
+
+
+## v1.0.13 (2024-03-11)
+
+### Fixes
+
+* Improve randomness (#101) (#103) [hhartzer]
+
+
+## v1.0.12 (2024-02-28)
+
+### Fixes
+
+* Annotate *args as Any (#95) [Kamil Essekkat]
+
+
 ## v1.0.10 (2022-11-09)
 
 ### Features
